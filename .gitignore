@@ -35,6 +35,7 @@ bin/*
 *.mp3
 *.png
 *.jpg
+*.jpeg
 *.mov
 *.DS_Store
 
